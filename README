@@ -1,0 +1,8 @@
+file input name must be - "file" --> [ if you want to change it , change in the multer file - upload.single(<filename>) ]
+
+
+These will be enviromental variables [ in .env file ]
+
+for mongodb connection --> MONGO_URL
+for cloudinary -->  API_SECRET , API_KEY , CLOUD_NAME , PORT ,
+for nodemailer -->  MAIL_ID , MAIL_PASS_KEY
